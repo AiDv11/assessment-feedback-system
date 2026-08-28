@@ -1,0 +1,21 @@
+M002|Math|MA12|2|Math|2|
+M003|Data Structures|DS01|3|CS|3|
+M004|Networks|NW02|3|CS|3|
+M005|Database|DB03|3|CS|3|
+M006|Operating Systems|OS04|3|CS|3|
+M007|Software Eng|SE05|3|CS|3|
+M008|AI|AI06|3|CS|3|
+M009|CyberSec|CY07|3|CS|3|
+M010|Web Dev|WD08|3|CS|3|
+M011|Mobile Dev|MD09|3|CS|3|
+M012|Cloud|CL10|3|CS|3|
+M013|ML|ML11|3|CS|3|
+M014|IoT|IT12|3|CS|3|
+M015|Blockchain|BC13|3|CS|3|
+M016|Game Dev|GD14|3|CS|3|
+M017|Big Data|BD15|3|CS|3|
+M018|DevOps|DO16|3|CS|3|
+M019|UIUX|UX17|3|CS|3|
+M020|Robotics|RB18|3|CS|3|
+M021|ARVR|AR19|3|CS|3|
+M022|Ethical Hack|EH20|3|CS|3|

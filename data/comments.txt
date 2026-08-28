@@ -1,0 +1,20 @@
+S001|T003|C001|hi sir
+S002|T003|C002|good lecture
+S003|T004|C003|thank you sir
+S004|T005|C004|nice explanation
+S005|T006|C005|can you repeat
+S006|T007|C006|very helpful
+S007|T008|C007|great class
+S008|T009|C008|clear topic
+S009|T010|C009|need more examples
+S010|T011|C010|awesome
+S011|T012|C011|thanks
+S012|T013|C012|interesting
+S013|T014|C013|cool
+S014|T015|C014|perfect
+S015|T016|C015|well done
+S016|T017|C016|explained well
+S017|T018|C017|understood
+S018|T019|C018|nice slides
+S019|T020|C019|clear voice
+S020|T021|C020|good job

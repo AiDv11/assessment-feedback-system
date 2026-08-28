@@ -1,0 +1,24 @@
+L001|w|w|abdu|Male|thgth@v.com|3232332423|2000-02-21|academic leader
+S001|s|s|moo ha|Male|hdhdh@gmail.com|32323342344|1980-09-12|student
+T003|l|l|Jeff|Male|Jeff@gmail.com|0114738394|1950-09-30|lecturer
+T004|shaza|shaza12|shaza|Male|shaza@shaza.shaza|6897840653|1991-06-01|lecturer
+L002|leader2|leader2|khalid|Male|khalid@gmail.com|0111111001|1980-01-01|academic leader
+L003|leader3|leader3|faisal|Male|faisal@gmail.com|0111111002|1979-02-02|academic leader
+T005|lec5|lec5|Adam|Male|adam@gmail.com|0111111111|1980-05-01|lecturer
+T006|lec6|lec6|John|Male|john@gmail.com|0111111112|1975-03-12|lecturer
+T007|lec7|lec7|Mary|Female|mary@gmail.com|0111111113|1982-07-22|lecturer
+T008|lec8|lec8|Sam|Male|sam@gmail.com|0111111114|1978-11-11|lecturer
+T009|lec9|lec9|Linda|Female|linda@gmail.com|0111111115|1985-09-09|lecturer
+T010|lec10|lec10|Hassan|Male|hassan@gmail.com|0111111116|1983-04-04|lecturer
+T011|lec11|lec11|Noor|Female|noor@gmail.com|0111111117|1990-08-08|lecturer
+T012|lec12|lec12|Omar|Male|omar@gmail.com|0111111118|1984-12-12|lecturer
+S002|u2|u2|ali|Male|ali@gmail.com|0123456789|21|student
+S003|u3|u3|ahmad|Male|ahmad@gmail.com|0123456790|22|student
+S004|u4|u4|sara|Female|sara@gmail.com|0123456791|20|student
+S005|u5|u5|lina|Female|lina@gmail.com|0123456792|23|student
+S006|u6|u6|omar2|Male|omar2@gmail.com|0123456793|24|student
+S007|u7|u7|huda|Female|huda@gmail.com|0123456794|21|student
+S008|u8|u8|fahad|Male|fahad@gmail.com|0123456795|22|student
+S009|u9|u9|reem|Female|reem@gmail.com|0123456796|20|student
+S010|u10|u10|khaled|Male|khaled@gmail.com|0123456797|23|student
+A003|m|m|Leo Messsi|Male|mess10i@gmail.com|0123904435|1989-06-08|admin
